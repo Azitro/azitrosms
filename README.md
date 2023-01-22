@@ -1,0 +1,2 @@
+# azitrosms
+azitrosms termux
