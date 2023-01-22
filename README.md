@@ -1,4 +1,6 @@
 ///////////////////////////////
+
+
 #Kurulumu;
 
 pkg install git
@@ -14,4 +16,6 @@ git clone https://github.com/Azitro/azitrosms
 chmod +x azitrosms.py
 
 python3 azitrosms.py
+
+
 ///////////////////////////////
